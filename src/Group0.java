@@ -11,11 +11,9 @@ import java.util.Scanner;
 import java.util.List;
 
 public class Group0 {
-
         public static void main(String[] args) throws InterruptedException, FileNotFoundException,IOException {
                 // testing the comparator:
-                Data.testM_LRMUS();
-
+                // Data.testM_LRMUS();
 
                 if (args.length < 2) {
                         System.out.println("Please run with two command line arguments: input and output file names");
@@ -27,33 +25,23 @@ public class Group0 {
 
                 // read as strings
                 String [] data = readData(inputFileName);
-
                 String [] toSort = data.clone();
-
-                System.out.println("Beginning sort...");
-                Data [] sorted = sort(toSort);
-                System.out.println("done");
-
-
+                Data [] sorted = sort(toSort); // Warm up the VM
                 toSort = data.clone();
-
                 Thread.sleep(10); //to let other things finish before timing; adds stability of runs
 
-                long start = System.currentTimeMillis();
-
+                long start = System.currentTimeMillis(); // Begin the timing
                 sorted = sort(toSort);
+                long end = System.currentTimeMillis();   // End the timing
 
-                long end = System.currentTimeMillis();
-
-                System.out.println(end - start);
-                System.out.print("\tExporting sorted data to "+outFileName+"...");
-                writeOutResult(sorted, outFileName);
-                System.out.println("done!");
-
+                System.out.println(end - start);         // Report the results
+                writeOutResult(sorted, outFileName)
         }
 
         // YOUR SORTING METHOD GOES HERE.
         // You may call other methods and use other classes.
+        // You may ALSO modify the methods, innner classes, etc, of Data[]
+        // But not in way that transfers information from the warmup sort to the timed sort.
         // Note: you may change the return type of the method.
         // You would need to provide your own function that prints your sorted array to
         // a file in the exact same format that my program outputs
