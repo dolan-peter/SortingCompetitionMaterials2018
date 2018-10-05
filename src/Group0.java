@@ -26,11 +26,7 @@ public class Group0 {
                 String outFileName = args[1];
 
                 // read as strings
-                //System.out.print("Importing data from "+inputFileName+"...");
                 String [] data = readData(inputFileName);
-                //System.out.println("done");
-                //System.out.println("First is ->"+data[0]+"<-");
-        //      printArray(data, 10);
 
                 String [] toSort = data.clone();
 
@@ -255,7 +251,6 @@ public class Group0 {
                         System.out.println(comparator.compare(testItem2,testItem));
                         testItem.best.report();
                         testItem2.best.report();
-
 
                         System.out.println("---");
                 }
