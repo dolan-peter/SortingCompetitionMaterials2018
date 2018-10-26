@@ -1,0 +1,949 @@
+Running prelim2.txt
+
+
+ Group 0: 
+
+4748
+
+6277
+
+4791
+
+Median: 4791.0
+Results of diff:
+
+
+ Group 1: 
+
+6294
+
+6296
+
+4759
+
+Median: 6294.0
+Results of diff:
+
+Files outRun2Group1.txt and outRun2Group0.txt differ
+
+ Group 2: 
+
+6233
+
+4752
+
+4776
+
+Median: 4776.0
+Results of diff:
+
+Files outRun2Group2.txt and outRun2Group0.txt differ
+
+ Group 3: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 4: 
+
+4756
+	Exporting sorted data to outRun2Group4.txt...
+4744
+	Exporting sorted data to outRun2Group4.txt...
+4787
+	Exporting sorted data to outRun2Group4.txt...
+Median: 4756.0
+Results of diff:
+
+
+ Group 5: 
+
+5
+
+5
+
+4
+
+Median: 5.0
+Results of diff:
+
+
+ Group 6: 
+
+4828
+
+4782
+
+4777
+
+Median: 4782.0
+Results of diff:
+
+
+ Group 7: 
+
+4744
+
+4772
+
+4827
+
+Median: 4772.0
+Results of diff:
+
+
+ Group 8: 
+
+6186
+
+4789
+
+4789
+
+Median: 4789.0
+Results of diff:
+
+
+ Group 9: 
+
+6297
+
+4741
+
+4735
+
+Median: 4741.0
+Results of diff:
+
+
+ Group 10: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 11: 
+
+m
+e
+
+m
+e
+
+m
+e
+
+Median: 0.0
+Results of diff:
+
+
+ Group 12: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 13: 
+
+6206 ms
+
+6265 ms
+
+6226 ms
+
+Median: 6226.0
+Results of diff:
+
+
+ Group 14: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 15: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 16: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 17: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 18: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 19: 
+
+382
+
+375
+
+419
+
+Median: 382.0
+Results of diff:
+
+Running prelim2.txt
+
+
+ Group 0: 
+
+6307
+
+6245
+
+6296
+
+Median: 6296.0
+Results of diff:
+
+
+ Group 1: 
+
+4822
+
+4818
+
+4820
+
+Median: 4820.0
+Results of diff:
+
+Files outRun2Group1.txt and outRun2Group0.txt differ
+
+ Group 2: 
+
+4844
+
+4815
+
+6221
+
+Median: 4844.0
+Results of diff:
+
+Files outRun2Group2.txt and outRun2Group0.txt differ
+
+ Group 3: 
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-2
+0
+2
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+Beginning sort...
+done
+4797
+	Exporting sorted data to outRun2Group3.txt...done!
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-2
+0
+2
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+Beginning sort...
+done
+6235
+	Exporting sorted data to outRun2Group3.txt...done!
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-2
+0
+2
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+Beginning sort...
+done
+4775
+	Exporting sorted data to outRun2Group3.txt...done!
+
+Median: 0.0
+Results of diff:
+
+Files outRun2Group3.txt and outRun2Group0.txt differ
+
+ Group 4: 
+
+6295
+	Exporting sorted data to outRun2Group4.txt...
+6247
+	Exporting sorted data to outRun2Group4.txt...
+4787
+	Exporting sorted data to outRun2Group4.txt...
+Median: 6247.0
+Results of diff:
+
+
+ Group 5: 
+
+4
+
+7
+
+5
+
+Median: 5.0
+Results of diff:
+
+
+ Group 6: 
+
+4825
+
+6271
+
+4831
+
+Median: 4831.0
+Results of diff:
+
+
+ Group 7: 
+
+6255
+
+4816
+
+4801
+
+Median: 4816.0
+Results of diff:
+
+
+ Group 8: 
+
+4800
+
+4811
+
+4790
+
+Median: 4800.0
+Results of diff:
+
+
+ Group 9: 
+
+4858
+
+4848
+
+4849
+
+Median: 4849.0
+Results of diff:
+
+
+ Group 10: 
+
+4783
+
+6313
+
+6293
+
+Median: 6293.0
+Results of diff:
+
+
+ Group 11: 
+
+m
+e
+
+m
+e
+
+m
+e
+
+Median: 0.0
+Results of diff:
+
+
+ Group 12: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 13: 
+
+6214 ms
+
+6182 ms
+
+6262 ms
+
+Median: 6214.0
+Results of diff:
+
+
+ Group 14: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 15: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 16: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 17: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 18: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 19: 
+
+381
+
+376
+
+371
+
+Median: 376.0
+Results of diff:
+
+Running prelim2.txt
+
+
+ Group 0: 
+
+2679
+
+2784
+
+2761
+
+Median: 2761.0
+Results of diff:
+
+
+ Group 1: 
+
+2702
+
+2692
+
+2715
+
+Median: 2702.0
+Results of diff:
+
+Files outRun2Group1.txt and outRun2Group0.txt differ
+
+ Group 2: 
+
+2724
+
+2702
+
+2709
+
+Median: 2709.0
+Results of diff:
+
+Files outRun2Group2.txt and outRun2Group0.txt differ
+
+ Group 3: 
+
+2796
+
+2729
+
+2777
+
+Median: 2777.0
+Results of diff:
+
+Files outRun2Group3.txt and outRun2Group0.txt differ
+
+ Group 4: 
+
+2756
+	Exporting sorted data to outRun2Group4.txt...
+2694
+	Exporting sorted data to outRun2Group4.txt...
+2667
+	Exporting sorted data to outRun2Group4.txt...
+Median: 2694.0
+Results of diff:
+
+
+ Group 5: 
+
+5
+
+4
+
+3
+
+Median: 4.0
+Results of diff:
+
+
+ Group 6: 
+
+2754
+
+2710
+
+2766
+
+Median: 2754.0
+Results of diff:
+
+
+ Group 7: 
+
+2728
+
+Running prelim2.txt
+
+
+ Group 0: 
+
+2677
+
+2682
+
+2712
+
+Median: 2682.0
+Results of diff:
+
+
+ Group 1: 
+
+2769
+
+2816
+
+2761
+
+Median: 2769.0
+Results of diff:
+
+Files outRun2Group1.txt and outRun2Group0.txt differ
+
+ Group 2: 
+
+2649
+
+2772
+
+Running prelim2.txt
+
+
+ Group 0: 
+
+2733
+
+2639
+
+2660
+
+Median: 2660.0
+Results of diff:
+
+
+ Group 1: 
+
+2789
+
+2702
+
+2768
+
+Median: 2768.0
+Results of diff:
+
+Files outRun2Group1.txt and outRun2Group0.txt differ
+
+ Group 2: 
+
+2731
+
+2683
+
+2666
+
+Median: 2683.0
+Results of diff:
+
+Files outRun2Group2.txt and outRun2Group0.txt differ
+
+ Group 3: 
+
+2756
+
+2746
+
+2784
+
+Median: 2756.0
+Results of diff:
+
+Files outRun2Group3.txt and outRun2Group0.txt differ
+
+ Group 4: 
+
+2787
+
+2716
+
+2733
+
+Median: 2733.0
+Results of diff:
+
+
+ Group 5: 
+
+2658
+
+2611
+
+2639
+
+Median: 2639.0
+Results of diff:
+
+
+ Group 6: 
+
+2719
+
+2718
+
+2712
+
+Median: 2718.0
+Results of diff:
+
+
+ Group 7: 
+
+2701
+
+2710
+
+2722
+
+Median: 2710.0
+Results of diff:
+
+
+ Group 8: 
+
+2663
+
+2667
+
+2670
+
+Median: 2667.0
+Results of diff:
+
+
+ Group 9: 
+
+2746
+
+2665
+
+2754
+
+Median: 2746.0
+Results of diff:
+
+
+ Group 10: 
+
+2717
+
+2681
+
+2703
+
+Median: 2703.0
+Results of diff:
+
+
+ Group 11: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 12: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 13: 
+
+3117 ms
+
+3047 ms
+
+3093 ms
+
+Median: 3093.0
+Results of diff:
+
+
+ Group 14: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 15: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 16: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 17: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 18: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 19: 
+
+427
+
+410
+
+433
+
+Median: 427.0
+Results of diff:
+

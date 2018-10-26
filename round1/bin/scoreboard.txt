@@ -1,0 +1,172 @@
+group 0 took place  1. The sum of places is 2, the sum of medians is 9619.0
+
+group 0 took place  1. The sum of places is 3, the sum of medians is 9550.0
+
+group 4 took place  2. The sum of places is 3, the sum of medians is 9615.0
+
+group 1 took place  3. The sum of places is 6, the sum of medians is 2000000.0
+
+group 3 took place  4. The sum of places is 8, the sum of medians is 2000000.0
+
+group 2 took place  5. The sum of places is 10, the sum of medians is 2000000.0
+
+group 5 took place  1. The sum of places is 2, the sum of medians is 9.0
+
+group 19 took place  2. The sum of places is 4, the sum of medians is 743.0
+
+group 7 took place  3. The sum of places is 7, the sum of medians is 9470.0
+
+group 8 took place  4. The sum of places is 7, the sum of medians is 9495.0
+
+group 9 took place  5. The sum of places is 11, the sum of medians is 9563.0
+
+group 0 took place  6. The sum of places is 12, the sum of medians is 9554.0
+
+group 4 took place  7. The sum of places is 13, the sum of medians is 11031.0
+
+group 13 took place  8. The sum of places is 16, the sum of medians is 12601.0
+
+group 12 took place  9. The sum of places is 22, the sum of medians is 2000000.0
+
+group 1 took place  10. The sum of places is 22, the sum of medians is 2000000.0
+
+group 6 took place  11. The sum of places is 23, the sum of medians is 2000000.0
+
+group 2 took place  12. The sum of places is 23, the sum of medians is 2000000.0
+
+group 11 took place  13. The sum of places is 24, the sum of medians is 2000000.0
+
+group 3 took place  14. The sum of places is 24, the sum of medians is 2000000.0
+
+group 14 took place  15. The sum of places is 30, the sum of medians is 2000000.0
+
+group 15 took place  16. The sum of places is 32, the sum of medians is 2000000.0
+
+group 16 took place  17. The sum of places is 34, the sum of medians is 2000000.0
+
+group 17 took place  18. The sum of places is 36, the sum of medians is 2000000.0
+
+group 18 took place  19. The sum of places is 38, the sum of medians is 2000000.0
+
+group 10 took place  20. The sum of places is 40, the sum of medians is 2000000.0
+
+group 5 took place  1. The sum of places is 2, the sum of medians is 8.0
+
+group 19 took place  2. The sum of places is 4, the sum of medians is 752.0
+
+group 9 took place  3. The sum of places is 7, the sum of medians is 9453.0
+
+group 6 took place  4. The sum of places is 9, the sum of medians is 9484.0
+
+group 7 took place  5. The sum of places is 10, the sum of medians is 9500.0
+
+group 4 took place  6. The sum of places is 11, the sum of medians is 9499.0
+
+group 8 took place  7. The sum of places is 13, the sum of medians is 9518.0
+
+group 0 took place  8. The sum of places is 16, the sum of medians is 10998.0
+
+group 13 took place  9. The sum of places is 18, the sum of medians is 12436.0
+
+group 14 took place  10. The sum of places is 20, the sum of medians is 2000000.0
+
+group 1 took place  11. The sum of places is 22, the sum of medians is 2000000.0
+
+group 11 took place  12. The sum of places is 24, the sum of medians is 2000000.0
+
+group 12 took place  13. The sum of places is 26, the sum of medians is 2000000.0
+
+group 3 took place  14. The sum of places is 28, the sum of medians is 2000000.0
+
+group 2 took place  15. The sum of places is 30, the sum of medians is 2000000.0
+
+group 15 took place  16. The sum of places is 32, the sum of medians is 2000000.0
+
+group 16 took place  17. The sum of places is 34, the sum of medians is 2000000.0
+
+group 17 took place  18. The sum of places is 36, the sum of medians is 2000000.0
+
+group 18 took place  19. The sum of places is 38, the sum of medians is 2000000.0
+
+group 10 took place  20. The sum of places is 40, the sum of medians is 2000000.0
+
+group 5 took place  1. The sum of places is 2, the sum of medians is 8.0
+
+group 19 took place  2. The sum of places is 4, the sum of medians is 746.0
+
+group 8 took place  3. The sum of places is 6, the sum of medians is 9515.0
+
+group 6 took place  4. The sum of places is 10, the sum of medians is 9559.0
+
+group 4 took place  5. The sum of places is 12, the sum of medians is 10970.0
+
+group 9 took place  6. The sum of places is 13, the sum of medians is 9604.0
+
+group 7 took place  7. The sum of places is 13, the sum of medians is 10993.0
+
+group 0 took place  8. The sum of places is 16, the sum of medians is 11049.0
+
+group 10 took place  9. The sum of places is 17, the sum of medians is 11073.0
+
+group 13 took place  10. The sum of places is 17, the sum of medians is 12464.0
+
+group 11 took place  11. The sum of places is 24, the sum of medians is 2000000.0
+
+group 1 took place  12. The sum of places is 25, the sum of medians is 2000000.0
+
+group 12 took place  13. The sum of places is 26, the sum of medians is 2000000.0
+
+group 14 took place  14. The sum of places is 26, the sum of medians is 2000000.0
+
+group 2 took place  15. The sum of places is 29, the sum of medians is 2000000.0
+
+group 15 took place  16. The sum of places is 32, the sum of medians is 2000000.0
+
+group 16 took place  17. The sum of places is 34, the sum of medians is 2000000.0
+
+group 17 took place  18. The sum of places is 36, the sum of medians is 2000000.0
+
+group 18 took place  19. The sum of places is 38, the sum of medians is 2000000.0
+
+group 3 took place  20. The sum of places is 40, the sum of medians is 2000000.0
+
+group 19 took place  1. The sum of places is 2, the sum of medians is 832.0
+
+group 5 took place  2. The sum of places is 4, the sum of medians is 5211.0
+
+group 8 took place  3. The sum of places is 8, the sum of medians is 5281.0
+
+group 0 took place  4. The sum of places is 9, the sum of medians is 5301.0
+
+group 7 took place  5. The sum of places is 9, the sum of medians is 5316.0
+
+group 4 took place  6. The sum of places is 13, the sum of medians is 5357.0
+
+group 10 took place  7. The sum of places is 13, the sum of medians is 5366.0
+
+group 6 took place  8. The sum of places is 14, the sum of medians is 5379.0
+
+group 9 took place  9. The sum of places is 18, the sum of medians is 5433.0
+
+group 13 took place  10. The sum of places is 20, the sum of medians is 6222.0
+
+group 1 took place  11. The sum of places is 23, the sum of medians is 2000000.0
+
+group 11 took place  12. The sum of places is 25, the sum of medians is 1003504.0
+
+group 2 took place  13. The sum of places is 25, the sum of medians is 2000000.0
+
+group 3 took place  14. The sum of places is 27, the sum of medians is 2000000.0
+
+group 12 took place  15. The sum of places is 30, the sum of medians is 2000000.0
+
+group 14 took place  16. The sum of places is 32, the sum of medians is 2000000.0
+
+group 15 took place  17. The sum of places is 34, the sum of medians is 2000000.0
+
+group 16 took place  18. The sum of places is 36, the sum of medians is 2000000.0
+
+group 17 took place  19. The sum of places is 38, the sum of medians is 2000000.0
+
+group 18 took place  20. The sum of places is 40, the sum of medians is 2000000.0
+
