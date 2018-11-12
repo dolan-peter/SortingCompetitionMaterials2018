@@ -148,7 +148,7 @@ The ruby script [run_all.rb](round1/bin/run_all.rb) was used to run the programs
 
 ## Presentations <a name="presentation"></a>
 
-The presentations date will November 1st . Each group needs to submit a
+The presentations date will November 29th . Each group needs to submit a
 set of 4-5 pdf slides by 11:59pm the day before the presentation; you will have 3-4 minutes to present. Both group members must be a part of a presentation. The presentation must have:
 
 * Your names (first names ok since this will be on github) and group number,
