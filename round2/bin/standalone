@@ -1,0 +1,15 @@
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim1.txt outRunStandalone.txt
+6047
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim1.txt outRunStandalone.txt
+5814
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim1.txt outRunStandalone.txt
+5075
+-bash-4.3$ diff outRunStandalone.txt outRun1Group0.txt
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim2.txt outRun2Standalone.txt
+5105
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim2.txt outRun2Standalone.txt
+5295
+-bash-4.3$ java -jar sorting-0.1.0-SNAPSHOT-standalone.jar prelim2.txt outRun2Standalone.txt
+5196
+-bash-4.3$ diff outRun2Standalone.txt outRun2Group0.txt
+
