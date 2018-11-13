@@ -144,7 +144,26 @@ The ruby script [run_all.rb](round1/bin/run_all.rb) was used to run the programs
 
 ## Results of the competition <a name="final"></a>
 
-*results of the final round will be posted here*
+Congratulations to everybody who contributed!  We had some great competition.  Thanks to everybody who participated.  You can look at the scoreboard in round2/bin for more exact details on how the scoring went.  The only out-of-place example comes from an entry that was submitted as a JAR file and had to be run separately... it's therefore, not in the scoreboard file.  The results, in order of achievement:
+
+* group 15 (not in the class): 
+* group 8 (Nick Plucker, Ethan Uphoff)
+* group 6 (Liam Koehler, Charlot Shaw)
+* group 2 (Mathew Munns, Ahnaf Prio)
+* group 10 (Nick Bushway, Leonid Scott)
+* group 9 (John Hoff, Abenezer Monjor)
+* group 13 (David Chong, Jubair Hassan)
+* group 7 (Ethan Hamer, Avery Koranda)
+* group 0 (reference)
+* group 11 (Ariel Cordes, Sungjae Park)
+* group 5 (Yutaro Miyata, Sam Score)
+* Standalone (not in class):
+* group 1 didn't sort correctly (Dexter An, John Schonenbaum)
+* group 3 didn't sort correctly (Colin Rabe, Kai Zang)
+* group 4 didn't sort correctly (Hunter Welch, Laly Xiong)
+* group 14 didn't sort correctly (Spencer Hammerstein, Xuejiao Yang)
+* group 12 didn't sort correctly (Vipul Sharma)
+
 
 ## Presentations <a name="presentation"></a>
 
