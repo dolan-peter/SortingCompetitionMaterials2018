@@ -1,0 +1,356 @@
+Running prelim1.txt
+
+
+ Group 0: 
+
+2485
+
+2478
+
+2564
+
+Median: 2485.0
+Results of diff:
+
+
+ Group 1: 
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-1
+0
+1
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+2594
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-1
+0
+1
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+2596
+
+LRMUS for Morrocco
+	LRMUS length: 2
+	LRMUS Position 1
+	LRMUS or
+LRMUS for Morrorrcco
+	LRMUS length: 4
+	LRMUS Position 1
+	LRMUS orro
+LRMUS for abcdefghijklm
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS a
+LRMUS for abcdefghdijklm
+	LRMUS length: 2
+	LRMUS Position 3
+	LRMUS de
+LRMUS for atatat
+	LRMUS length: 5
+	LRMUS Position 0
+	LRMUS atata
+---
+-1
+0
+1
+LRMUS for Zunzibar
+	LRMUS length: 1
+	LRMUS Position 0
+	LRMUS Z
+LRMUS for rorocco
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ror
+---
+57
+0
+-57
+LRMUS for **cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS **c
+LRMUS for ***cat**
+	LRMUS length: 3
+	LRMUS Position 0
+	LRMUS ***
+---
+2560
+
+Median: 0.0
+Results of diff:
+
+Files outRun1Group1.txt and outRun1Group0.txt differ
+Running prelim1.txt
+
+
+ Group 0: 
+
+2287
+
+2276
+
+2274
+
+Median: 2276.0
+Results of diff:
+
+
+ Group 1: 
+
+2262
+
+2265
+
+2260
+
+Median: 2262.0
+Results of diff:
+
+Files outRun1Group1.txt and outRun1Group0.txt differ
+
+ Group 2: 
+
+2189
+
+2185
+
+2196
+
+Median: 2189.0
+Results of diff:
+
+
+ Group 3: 
+
+2280
+
+2261
+
+2282
+
+Median: 2280.0
+Results of diff:
+
+Files outRun1Group3.txt and outRun1Group0.txt differ
+
+ Group 4: 
+
+1626
+
+1626
+
+1647
+
+Median: 1626.0
+Results of diff:
+
+Files outRun1Group4.txt and outRun1Group0.txt differ
+
+ Group 5: 
+
+2586
+
+2575
+
+2565
+
+Median: 2575.0
+Results of diff:
+
+
+ Group 6: 
+
+511
+
+512
+
+511
+
+Median: 511.0
+Results of diff:
+
+
+ Group 7: 
+
+2260
+
+2282
+
+2266
+
+Median: 2266.0
+Results of diff:
+
+
+ Group 8: 
+
+325
+
+327
+
+322
+
+Median: 325.0
+Results of diff:
+
+
+ Group 9: 
+
+2264
+
+2263
+
+2287
+
+Median: 2264.0
+Results of diff:
+
+
+ Group 10: 
+
+2259
+
+2259
+
+2256
+
+Median: 2259.0
+Results of diff:
+
+
+ Group 11: 
+
+2287
+
+2290
+
+2268
+
+Median: 2287.0
+Results of diff:
+
+
+ Group 12: 
+
+
+
+
+Median: 0.0
+Results of diff:
+
+
+ Group 13: 
+
+2260
+
+2262
+
+2271
+
+Median: 2262.0
+Results of diff:
+
+
+ Group 14: 
+
+Beginning sort...
+
+Beginning sort...
+
+Beginning sort...
+
+Median: 0.0
+Results of diff:
+
+
+ Group 15: 
+
+327
+
+322
+
+322
+
+Median: 322.0
+Results of diff:
+
